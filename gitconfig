@@ -62,3 +62,5 @@
 [user]
 	email = issahakalhassan42@gmail.com
 	name = Issahak Alhassan
+[credential]
+	helper = store
